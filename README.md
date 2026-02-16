@@ -1,4 +1,4 @@
-# E-Commerce Revenue and Customer Behavior Analysis
+#E-Commerce Revenue and Customer Behavior Analysis
 
 ##Objective
 - Analyze transactional E-commerce data to uncover revenue drivers, customer concentration, seasonal trends, product performance, and geographic demand in order to provide actionable business recommendations for growth and retention.
